@@ -7,7 +7,7 @@ A Shiny application developed within the SAMESEA project to visualize predicted 
 Before running the app, users have to download all the files in this repository and install all required R packages.
 
 > [!IMPORTANT]
-> Because GitHub cannot host very large files, one required dataset must be downloaded manually [here](https://). # to be completed
+> Because GitHub cannot host very large files, one required dataset must be downloaded manually [here](https://owncloud.uniroma2.it/index.php/s/PSGimNpyB6SK4Wk).
 > Once downloaded, the file **df_pred.rds** must be placed in the folder **data/**.
 
 To run the SAMESEA ShinyApp open **app.R** and click on the "Run App" button on the top right of the main RStudio panel.
