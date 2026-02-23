@@ -1,5 +1,24 @@
-.Rproj.user
-.Rhistory
-.RData
-.Ruserdata
+# ============================ # SAMESEA Shiny App Gitignore # ============================ # 
+--- Large data files (excluded from GitHub) --- 
 data/df_pred.rds
+
+# --- RStudio project files --- 
+*.Rproj 
+.Rproj.user/ 
+.Rhistory 
+.RData 
+.Ruserdata 
+samesea-custom.Rproj
+
+# --- Temporary files --- 
+*.tmp 
+*.log 
+*.bak 
+
+# --- OS-specific files --- 
+.DS_Store 
+Thumbs.db 
+
+# --- Shiny runtime files --- 
+rsconnect/
+.Rproj.user
