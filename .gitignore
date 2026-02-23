@@ -8,7 +8,6 @@ data/df_pred.rds
 .Rhistory 
 .RData 
 .Ruserdata 
-samesea-custom.Rproj
 
 # --- Temporary files --- 
 *.tmp 
