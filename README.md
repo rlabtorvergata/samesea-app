@@ -26,12 +26,4 @@ shiny::runApp()
 ```
 
 > [!NOTE]
-> A lightweight version of the app featuring only the Default explorer mode is available at [shinyapps.io](https://rlab.shinyapps.io/samesea-app-d/).
-
-## Folder structure
-.
-├── app.R
-├── data/    # input data (df_pred.rds must be added manually)
-├── meta/    # default presence & interaction maps
-├── models/  # pre-trained RF and MPN models
-└── www/     # images and help files        
+> A lightweight version of the app featuring only the Default explorer mode is available at [shinyapps.io](https://rlab.shinyapps.io/samesea-app-d/).    
